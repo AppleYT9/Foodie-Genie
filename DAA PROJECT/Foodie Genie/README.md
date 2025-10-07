@@ -44,6 +44,14 @@ It’s designed to make meal planning simple — whether you’re a beginner or 
 4. The user can view, refresh, or save recipes.
 
 ---
+| Name                     | Role                     |
+| ------------------------ | ------------------------ |
+| **Madhan Senthil Kumar** | Backend Developer        |
+| **Harshitha Reddy**      | Frontend Developer       |
+| **Pallavi**              | UI/UX Designer           |
+| **Sai Inapakolla**       | Data & Logic Integration |
+| **Laya**                 | Testing & Documentation  |
+
 
 ## 💻 Installation & Setup
 
@@ -70,3 +78,4 @@ python app.py
 
 # Open in your browser
 http://127.0.0.1:5000/
+
